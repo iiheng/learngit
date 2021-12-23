@@ -11,3 +11,4 @@ Creating a new branch is quick & simple
 Creating a new branch is AND quick.
 >>>>>>> feature1
 dev management
+git is free software.....
